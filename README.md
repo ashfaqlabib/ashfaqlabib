@@ -66,7 +66,7 @@ Python · NumPy · Pandas · Matplotlib · Machine Learning
 ### 🤝 Connect With Me
 
 - GitHub: [@ashfaqlabib](https://github.com/ashfaqlabib)
-- Kaggle: Add your profile link
+- Kaggle: https://www.kaggle.com/ashfaqlabib
 - LinkedIn: Add your profile link
 
 ---

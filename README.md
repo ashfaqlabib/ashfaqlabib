@@ -40,7 +40,7 @@ Python · Machine Learning Models · Kaggle Datasets · Model Evaluation · Jupy
 
 **Networking & Systems**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,terminal" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
 </p>
 Linux Terminal · Command-Line Tools · Computer Networking · System Troubleshooting
 

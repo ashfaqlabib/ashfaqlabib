@@ -31,7 +31,7 @@ ESP32 · Arduino · Sensors · Motors · Motor Drivers · Embedded C/C++
 **Programming & Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,firebase,pycharm,androidstudio,vscode,linux" alt="Programming languages and development tools"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,firebase,pycharm,vscode" alt="Programming languages and development tools"/>
 </p>
 
 **Machine Learning & Kaggle**
@@ -39,12 +39,14 @@ ESP32 · Arduino · Sensors · Motors · Motor Drivers · Embedded C/C++
 Python · Machine Learning Models · Kaggle Datasets · Model Evaluation · Jupyter Notebook
 
 **Networking & Systems**
-
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+</p>
 Linux Terminal · Command-Line Tools · Computer Networking · System Troubleshooting
 
 **Mobile Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Programming languages and development tools"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/>
 </p>
 Android Studio · Android App Development · Java
 

@@ -45,6 +45,7 @@ Linux Terminal · Command-Line Tools · Computer Networking · System Troublesho
 **Mobile Development**
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Programming languages and development tools"/>
+</p>
 Android Studio · Android App Development · Java
 
 ### 🔬 Areas of Interest

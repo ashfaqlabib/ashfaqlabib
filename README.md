@@ -35,9 +35,7 @@ ESP32 · Arduino · Sensors · Motors · Motor Drivers · Embedded C/C++
 </p>
 
 **Machine Learning & Kaggle**
-<p>
-  <img src="https://skillicons.dev/icons?i=jupyternotebook,kaggledatasets,matchinelearning" alt="Linux"/>
-</p>
+
 Python · Machine Learning Models · Kaggle Datasets · Model Evaluation · Jupyter Notebook
 
 **Networking & Systems**

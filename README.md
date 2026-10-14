@@ -86,7 +86,7 @@ Android Studio · Android App Development · Java
 
 - **GitHub:** [@ashfaqlabib](https://github.com/ashfaqlabib)
 - **Kaggle:** [ashfaqlabib](https://www.kaggle.com/ashfaqlabib)
-- **LinkedIn:** Add your profile link here
+- **LinkedIn:** [ashfaqlabib](https://www.linkedin.com/in/ashfaq-labib-b825a02a2/)
 
 ---
 

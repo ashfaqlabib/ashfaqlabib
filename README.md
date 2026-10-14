@@ -27,7 +27,7 @@ ESP32 · Arduino · Sensors · Motors · Motor Drivers · Embedded C/C++
 **Programming & Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,firebase,docker,figma,pycharm,vscode" alt="C, C++, Python, Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,firebase,docker,figma,pycharm,vscode" alt="C, C++, Python, Git, GitHub and VS Code"/>
 </p>
 
 **AI & Data Science**
